@@ -1,3 +1,3 @@
-module github.com/bflogan77/goTutorial.git
+module github.com/bflogan77/goTutorial
 
 go 1.14
